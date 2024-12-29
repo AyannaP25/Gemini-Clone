@@ -8,7 +8,7 @@ Chatbot inspired by Google Gemini and ChatGPT. This project includes features su
 
 ---
 
-📸 Screenshots
+## 📸 Screenshots
 
 ![Screenshot 2024-12-28 224652](https://github.com/user-attachments/assets/c26218f1-b4b7-4cd0-b7c6-ab3734d6186b)
 
